@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(45deg,limegreen,coral,limegreen);
+    height: 1000px;
+}
+#header{
+    background-color: black;
+    height: 70px;
+}
+
+#brand{
+    width: 40%;
+    float: left;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+}
+
+#menu{
+    text-align: center;
+    float: right;
+    width: 60%;
+    line-height: 70px;
+}
+
+
+
+#food{
+    text-align: center;
+    line-height: 80px;
+}
+
+#Biriyani{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#WSB{
+    background: linear-gradient(45deg,darkred,black);
+    width: 50%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 10px auto;
+}
+
+table{
+    width: 100%;
+    margin-top: 15px;
+}
+
+img{
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
+
+#TC{
+    text-align: center;
+    background: linear-gradient(45deg,darkred,black);
+    width: 50%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 10px auto;
+}
+
+#Tandoori Chicken{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#FA{
+    text-align: center;
+    background: linear-gradient(45deg,darkred,black);
+    width: 50%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 10px auto;
+}
+
+#Faluda{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#footer{
+    text-align: center;
+    background: black;
+    color: white;
+    margin: 30px;
+    padding: 20px;
+}
